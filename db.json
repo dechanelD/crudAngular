@@ -1,0 +1,59 @@
+{
+  "produitList": [
+    {
+      "nomProduit": "iphone",
+      "categorieProduit": "Electronique",
+      "qualiteProduit": "seconde main",
+      "prixProduit": 5000,
+      "commentaireProduit": "okay",
+      "dateProduit": "2022-06-21T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "nomProduit": "samsung",
+      "categorieProduit": "Electronique",
+      "qualiteProduit": "neuf",
+      "prixProduit": 115000,
+      "commentaireProduit": "usa",
+      "dateProduit": "2022-06-08T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "nomProduit": "banane",
+      "categorieProduit": "Fruit",
+      "qualiteProduit": "reconditionne",
+      "prixProduit": 250,
+      "commentaireProduit": "en tas",
+      "dateProduit": "2022-06-01T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "nomProduit": "salade",
+      "categorieProduit": "Vegetable",
+      "qualiteProduit": "neuf",
+      "prixProduit": 1000,
+      "commentaireProduit": "fraiche",
+      "dateProduit": "2022-06-10T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "nomProduit": "climatiseur",
+      "categorieProduit": "Electronique",
+      "qualiteProduit": "neuf",
+      "prixProduit": 120000,
+      "commentaireProduit": "macat",
+      "dateProduit": "2022-05-31T23:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
